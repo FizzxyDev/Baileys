@@ -1,6 +1,7 @@
 {
-  "name": "@FizzxyDev/Baileys",
-  "version": "1.0.5",
+  "name": "@fizzxydev/baileys",
+  "version": "1.0.6",
+  "private": false,
   "description": "NodeJS libary FizzxyDev",
   "keywords": [
     "Baileys",
@@ -11,7 +12,7 @@
   ],
   "homepage": "https://tentang-fizzxy.netlify.app",
   "repository": {
-    "url": "git+ssh://git@github.com/FizzxyDev/Baileys"
+    "url": ""
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
@@ -68,7 +69,7 @@
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^8.0.0",
     "jest": "^27.0.6",
-    "jimp": "^0.22.12",
+    "jimp": "^0.16.1",
     "json": "^11.0.0",
     "link-preview-js": "^3.0.5",
     "open": "^8.4.2",
@@ -100,5 +101,11 @@
       "optional": true
     }
   },
-  "packageManager": "yarn@1.22.19"
+  "packageManager": "yarn@1.22.19",
+  "directories": {
+    "lib": "lib"
+  },
+  "bugs": {
+    "url": "https://github.com/FizzxyDev/Baileys/issues"
+  }
 }
