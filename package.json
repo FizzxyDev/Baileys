@@ -1,17 +1,17 @@
 {
-  "name": "@mrpudidi/gravatar",
-  "version": "1.0.2",
-  "description": "NodeJS libary gravatar",
+  "name": "@FizzxyDev/Baileys",
+  "version": "1.0.5",
+  "description": "NodeJS libary FizzxyDev",
   "keywords": [
-    "gravatar",
+    "Baileys",
     "avatar",
     "whatsapp",
     "meta",
-    "vreden"
+    "Fizzxy"
   ],
-  "homepage": "https://www.vreden.my.id",
+  "homepage": "https://tentang-fizzxy.netlify.app",
   "repository": {
-    "url": "git+ssh://git@github.com/vreden/avatar.git"
+    "url": "git+ssh://git@github.com/FizzxyDev/Baileys"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
